@@ -2818,7 +2818,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #053230;
 			color: #c8ece9;
 		}
 
@@ -3983,18 +3983,19 @@ input, select, textarea {
 	body.is-mobile.landing #page-wrapper {
 		background: none;
 	}
-
-	body.is-mobile.landing #banner,
-	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/rainbowCut.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/rainbowCut.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/rainbowCut.jpg.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/rainbowCut.jpg");
+/* .is-mobile.landing .landing*/
+	body.is-mobile.landing  #page-wrapper #banner,
+	body.landing  .wrapper.style4 {
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/about_banner_cut.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/about_banner_cut.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/about_banner_cut.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/about_banner_cut.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
+		
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #1d242a;
+		background-color: #35404a;
 	}
