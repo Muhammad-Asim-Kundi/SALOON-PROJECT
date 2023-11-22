@@ -1,7 +1,7 @@
 My Awesome Project
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
+Link to project: https://github.com/Muhammad-Asim-Kundi/SALOON-PROJECT
 
 alt tag
 
@@ -21,8 +21,8 @@ No matter what your experience level, being an engineer means continuously learn
 Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-Palettable: https://github.com/alecortega/palettable
+Palettable: https://github.com/Muhammad-Asim-Kundi/SALOON-PROJECT
 
-Twitter Battle: https://github.com/alecortega/twitter-battle
+Twitter Battle: 
 
-Patch Panel: https://github.com/alecortega/patch-panel
+Patch Panel:
