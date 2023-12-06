@@ -1,29 +1,65 @@
-<h1 align="center">Hi 👋, I'm Muhammad Asim Kundi</h1>
-<h3 align="center">A passionate Mern-stack developer.</h3>
+# Travel Web-Application: <a href="https://shawncharles.com/travelara" target="_blank">Visit Here</a>
+<a href="https://shawncharles.com/travelara" target="_blank">
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif1.gif?raw=true" width="100%" alt="Travelara.org"/>
+</a>
 
-<p align="left"> <a href="https://twitter.com/masimkundi" target="blank"><img src="https://img.shields.io/twitter/follow/masimkundi?logo=twitter&style=for-the-badge" alt="masimkundi" /></a> </p>
+Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!
 
-- 🌱 I’m currently learning **Everything coming in front of me. yes, I am student of life.**
 
-- 👯 I’m looking to start work as software engineer **at international known Company.**
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![SASS BADGE](https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass)![BOOTSTRAP BADGE](https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)![EXPRESS BADGE](https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express)![MONGODB BADGE](https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb)
 
-- 📝 I regularly code [https://github.com/Muhammad-Asim-Kundi](https://github.com/Muhammad-Asim-Kundi)
 
-- 📫 How to reach me **muhammadasimkundi@gmail.com**
+## Optimizations
+One of the first thing I would optimize is the UX of how someone schedules a vacation and would love to add chatgpt plugins to be able to populate a price page for hotels and flights. I would also work on the scalability of the API used. Lastly I would make it so that a person can swipe with friends in real time. 
 
-- ⚡ Fun fact is that **"I am changing the world with 1one line of code."**
+## Lessons Learned
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/masimkundi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masimkundi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-asim-kundi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-asim-kundi" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadasimkundi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadasimkundi" height="30" width="40" /></a>
-</p>
+Utilized callback functions in the server to try and build a modular and scalable backend. Through this I learned , how to effectively simplify backend routes into independent functions
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Demo Login
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-asim-kundi&show_icons=true&locale=en&layout=compact" alt="muhammad-asim-kundi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asim-kundi&" alt="muhammad-asim-kundi" /></p>
+Demo Email: demo@demo.com
 
+Demo password: demo
+
+
+## Installation
+
+1. Clone repo
+2. run `npm install`
+3. update DATABASE_URL in config/database
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8080`
+
+## More Projects
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Rigley 2: Flappy Bug</a>
+        <br />
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
+            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%"  alt="Rigley 2: Flappy Bug"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game"> Matching Card Game</a>
+      <br />
+        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
+          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Card Game"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
+        <br />
+        <a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021/">
+          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+    </td>
+  </tr>
+</table>
